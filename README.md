@@ -11,5 +11,3 @@ All client-side cryptography is implemented using the Web Crypto API. Files are 
 
 The web page is self-contained. The page does not require any supporting files; all javascript and css for the page is contained in the source code of the page. 
 To run the page locally on your system offline, simply save the page to your system as a .html file, then open the file from your system in your web browser (optionally with networking disabled).
-
-## LINK : 
